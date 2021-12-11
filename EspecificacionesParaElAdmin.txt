@@ -1,0 +1,1 @@
+Desde la vista de Sing Up se puede crear un usuario con cual cualquiera de los 3 roles, ADM, COORD o ASE
